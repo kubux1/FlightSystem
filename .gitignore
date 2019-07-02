@@ -1,0 +1,27 @@
+#Java
+
+# Intellij
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/*
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+!.mvnw/wrapper/maven-wrapper.jar
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
